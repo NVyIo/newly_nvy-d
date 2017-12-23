@@ -1,0 +1,32 @@
+{
+  "name": "newly_nvyd_project",
+  "version": "1.0.0",
+  "description": "2018 project starter package for Nvy and NiKole Maxwell projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NVyIo/newly_nvy-d.git"
+  },
+  "keywords": [
+    "starter",
+    "project",
+    "javascript",
+    "html",
+    "css",
+    "nvyio",
+    "nikole",
+    "maxwell",
+    "2018",
+    "default",
+    "project"
+  ],
+  "author": "NiKole Maxwell",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/NVyIo/newly_nvy-d/issues"
+  },
+  "homepage": "https://github.com/NVyIo/newly_nvy-d#readme"
+}

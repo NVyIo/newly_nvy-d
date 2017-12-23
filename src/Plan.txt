@@ -1,0 +1,64 @@
+Newly Nvy'd 
+Project Starter Template
+
+
+/*/ Purpose /*/
+
+
+/*/ Instructions /*/
+
+Navigate to https://github.com/NVyIo/newly_nvy-d.git
+Clone the repository
+
+In Visual Studio Code,  press 'ctrl+shift+P'
+and search for git clone
+enter the address >>>  [ Finish instructions after creation**]
+
+
+# Get the latest snapshot
+git clone --depth=1 https://github.com/sahat/hackathon-starter.git myproject
+
+# Change directory
+cd myproject
+
+# Install NPM dependencies
+npm install
+
+# Then simply start your app
+node app.js
+
+/*/   /*/
+
+
+Steps
+
+Readme
+Plan -- suppressed
+x index.html   [ head - meta, markup, fonts, bootstrap/materialize for footer @ minimum, normalize, default style,  ]
+.gitignore files / folders
+x src folder
+x app.js
+
+style.css
+normalize.css
+font-awesome
+materialize-fonts
+Google fonts [with room for custom]
+logo images
+scripts
+x  npm init
+git init -> directions
+
+
+
+GitHub Commit
+GitHub Push
+Firebase Deploy
+Site Push
+
+
+
+Issue log
+
+//  Fork the Repo to [ gain fork pts on the Repo ]  
++
