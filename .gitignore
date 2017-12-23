@@ -1,1 +1,15 @@
 /*/ These files will be suppressed from loading to the GitHub Repository  /*/
+
+/*/ All files in the .ignore folder /*/
+
+.ignore/
+
+/*/ All internal files - Administrative /*/
+
+/internal/*
+
+
+/*/ All node modules /*/
+
+/node_modules/*
+node_modules/*
